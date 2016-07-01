@@ -6,3 +6,7 @@
   `npm install webpack -g`
 
   `npm install`
+
+  `npm start`
+
+  In your browser navigate to `localhost:8080`
